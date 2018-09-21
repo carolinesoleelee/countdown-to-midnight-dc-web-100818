@@ -12,5 +12,5 @@ if x == 0
 end
 
 def countdown_with_sleep(x)
-  sleep(0.5)
+  sleep(5)
 end
