@@ -2,12 +2,11 @@
 
 def countdown
   x = 10
-  while x > -1
+  while x > 0
     puts "#{x} SECOND(S)"
   x -= 1
-  if 
+  if
   end
 end
 
 def countdown_with_sleep
-  
